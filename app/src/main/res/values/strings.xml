@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGame</string>
+
+<string name="action_settings">Settings</string>
+
+<string name="opcoes">Escolha uma opção</string>
+
+<string name="ultimaJogada">Última Jogada</string>
+
+<string name="jogadaPlayer">Você</string>
+
+<string name="resultado">Resultado</string>
+
+<string name="jogadaPC">Computador</string>
+
+</resources>
